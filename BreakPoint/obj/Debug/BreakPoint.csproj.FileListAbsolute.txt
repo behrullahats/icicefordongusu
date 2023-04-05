@@ -1,0 +1,11 @@
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\BreakPoint\BreakPoint\bin\Debug\BreakPoint.exe.config
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\BreakPoint\BreakPoint\bin\Debug\BreakPoint.exe
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\BreakPoint\BreakPoint\bin\Debug\BreakPoint.pdb
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\BreakPoint\BreakPoint\obj\Debug\BreakPoint.csproj.AssemblyReference.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\BreakPoint\BreakPoint\obj\Debug\BreakPoint.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\BreakPoint\BreakPoint\obj\Debug\BreakPoint.Form1.resources
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\BreakPoint\BreakPoint\obj\Debug\BreakPoint.Properties.Resources.resources
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\BreakPoint\BreakPoint\obj\Debug\BreakPoint.csproj.GenerateResource.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\BreakPoint\BreakPoint\obj\Debug\BreakPoint.csproj.CoreCompileInputs.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\BreakPoint\BreakPoint\obj\Debug\BreakPoint.exe
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\BreakPoint\BreakPoint\obj\Debug\BreakPoint.pdb
